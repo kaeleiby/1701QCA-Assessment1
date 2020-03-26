@@ -6,11 +6,9 @@
 
 *For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
 
-### Experiment name ###
+### Exp 1: Say Hello to micro:bit ###
 
-(Replace this with the experiment name)
-
-#### Photo of completed project ####
+#### Photo of Experiment 1 ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](missingimage.png)
