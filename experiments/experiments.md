@@ -15,6 +15,7 @@ This experiment could be the basis of a real world application where led devices
 
 
 
+
 ### Exp 2: Using a Light sensor & Analog Inputs ###
 
 #### Photo of experiment 2 displaying the 'Sun' icon ####
@@ -26,6 +27,7 @@ This experiment could be the basis of a real world application where led devices
 In this experiment, something new to me was or something I learned was using resistors and researching the colour coding. I also had never used an analog/digital converter to create values in a  coding variable. 
 
 This experiment could be the basis of a real world application such as automated street lights.
+
 
 
 
@@ -43,6 +45,7 @@ This experiment could be the basis of a real world application such as a husehol
 
 
 
+
 ### Exp 4: Using a Transistor to Drive a Motor ###
 
 #### Photo of Experiment 4 ready to turn the fan ####
@@ -54,6 +57,7 @@ This experiment could be the basis of a real world application such as a husehol
 In this experiment, something new to me was or something I learned was using the transistor and its role in regulating the flow of electricity.
 
 This experiment could be the basis of a real world application such as air cinditioning units that regulate and control atmospheric conditions in a controlled environment.
+
 
 
 
