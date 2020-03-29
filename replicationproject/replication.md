@@ -1,109 +1,101 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
+## Replication project: Banana Keyboard ##
 
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
+https://makecode.microbit.org/projects/banana-keyboard/make
 
-## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 The Original Heng Balance Lamp
 
 https://www.theoriginalmoonlamp.com/products/the-original-heng-balance-lamp
 
-![Image](missingimage.png)
+![Image](hengLamp.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses a nonconventional way to close the electronic circuit and switch on the light using magnets.
 
 
 ### Related project 2 ###
-(Insert name of project)
+Electric Keyboard
 
-(Insert URL to project)
+https://au.yamaha.com/en/products/musical_instruments/keyboards/index.html
 
-![Image](missingimage.png)
+![Image](electricKeyboard.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it creates sounds via electic currents.
 
 
 ### Related project 3 ###
-(Insert name of project)
+Enregy Stick
 
-(Insert URL to project)
+https://www.stevespanglerscience.com/lab/experiments/human-circuit/
 
-![Image](missingimage.png)
+![Image](energyStick.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses a human to bridge the circuit and power on.
 
 
 ### Related project 4 ###
-(Insert name of project)
+Christmas/Fairy Lights wired in a Series Circuit
 
-(Insert URL to project)
+https://www.wired.com/2014/12/christmas-lights-series-parallel/
 
-![Image](missingimage.png)
+![Image](xmasLightsSeries.jpg)
 
-This project is related to mine because (insert reasons here).
-
+This project is related to mine as older styles of decorative lights used to be wired in a series. If one light bulb malfunctioned, the circuit would be broken. Newer decorative lights use parallel wiring, so if a bulb breaks, the circuit remains complete.
 
 ### Related project 5 ###
-(Insert name of project)
+Touch Sensor
 
-(Insert URL to project)
+https://www.build-electronic-circuits.com/how-to-make-a-simple-touch-sensor/
 
-![Image](missingimage.png)
+![Image](touchSensor.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it requires human contact to coplete the circuit.
 
 
 ### Related project 6 ###
-(Insert name of project)
+Fruit Battery
 
-(Insert URL to project)
+https://www.thoughtco.com/how-to-make-a-fruit-battery-605970
 
-![Image](missingimage.png)
+![Image](lemonBattery.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it utilises organic material in an electrical circuit. It goes a step further and uses the organic materials to create a charge, rather than using an external power source.
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I was surprised to learn that identifying affordances in objects can also create unintentional affordances (ie: the bookmark - used a placeholder, but unintentionally shows how much of the book remains).
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I have always been able to identify a design flaw by a lack of signifiers, but was unable to articulate what I was trying to say. Just learning the terminology has made explanations relating to problems I have uncovered easier to collaborate with others and brainstorm a solution.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I am interested to discover more ordinary items or objects I use, where the designer expects the user to instinctively understand how they work, without providing any signifiers or instructions.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+I need to remember to provide simple instructions for users of my designs, especially if it is unclear or unintuitive as to how something operates.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading this chapter, I hadn't even considered how some of our more intuiative features and functions in commonplace applications and programs were only established as defaults after many iterations or design attempts.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I realised that I tend to instinctively ask questions relating to microinteractions. I have always tested features in a new device (ie: whether or not silencing my smartphone at night will still activate an alarm) and realised that user feedback for microinteractions is something I apply to my own designs without conscious thought. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I'm would like to investigate what trends of microinteractions are currently exciting and opening debates in the user interface and design community, and see if there are some solutions I may be able to problem solve.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+One interesting microinteraction I encountered with my replication project was investigating what would happen when both circuit gaps were bridged simultaneously. Which part of my code would take precedence?
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+I began reading Scott's recount of his Capybara project thinking he had a solid background in programming and coding, and would take on such a project with all the knowledge necessary to succeed. I was challenged when he described his failures and frustrations, as he had to learn and navigate his way towards his end goal.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I was surprised to read that his feeling of accomplishment mirrors mine when I tackle a task I previously believed to be beyond my scope of practice. He also explained how excited it would make him, even when that finished product seemed insignificant to others or loved ones. I find myself relating to Scott, as I relish in a personal victory, no matter how small.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to further explore how exactly the storeowner identified issus with the store layout. I'm interested in how he was able to see something obvious that went over everyone else's head.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+I found this reading encouraging and promising when I compare it to my own experiences with construction of projects. I often run into an idea without having the knowledge to feasibly create or design what I want it to do. Scott's reading showed me that learning new skills are in fact part of the prototyping process.
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
